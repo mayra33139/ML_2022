@@ -1,0 +1,49 @@
+United flights resume after computer problem
+by Chris Isidore and Jose Pagliery   @CNNMoney
+July 8, 2015: 2:29 PM ET	
+
+United flights resume after glitch grounds planes
+United Airlines flights resumed on Wednesday morning after they had been grounded worldwide for more than an hour due to a computer problem.
+United issued a statement saying it suffered from "a network connectivity issue this morning," and apologized to customers for any inconvenience. It said that 4,900 flights were impacted by the problem worldwide.
+
+Later Wednesday, Homeland Security chief Jeh Johnson assured the public that United's outage was not connected to a computer problem that disrupted trading at the New York Stock Exchange. The airline official also said "there was no hacking whatsoever" in the United outage.
+
+"I have spoken to the CEO of United myself," he said, "and it appears that the malfunctions from United and New York Stock Exchange were not the result of any nefarious actor."
+
+But the problems from Wednesday morning's glitch at United will likely to ripple throughout the day and even into Thursday, said James Record, a professor of aviation at Dowling College. He said the schedules are so tight that it will take a long time for United to restore normal operations after so many flights are disrupted, even if it is only for a bit more than an hour.
+
+Record said that even flights that were able to land as planned would be delayed because there was no gate available to unload passengers. That would cause many passengers to miss connections.
+
+"There will be a large group of people who will not get to fly today as planned," he said.
+
+United said that passengers who are able to voluntarily change their travel plans because of the grounding will not be charged the normal fees imposed on such changes.
+
+Former U.S. Sen. Scott Brown tweeted that his United flight was able to land at O'Hare in Chicago as planned but had to wait 45 minutes to get to the gate. By the time it got there, he had missed his connection.
+
+We were all told by @united that our connections would wait. Not true. @united customer service is terrible. Very rude to everyone.
+
+— Scott P. Brown (@SenScottBrown) July 8, 2015
+Twitter was filled with complaints from many other United customers as well. One tweet compared United to the Three Stooges.
+
+All #UnitedAirlines flights in U.S. are grounded, but they've got their best people working on it. #United pic.twitter.com/TMLeViajVC
+
+— MrJM (@MisterJayEm) July 8, 2015
+The computer problem in the airline's reservation system caused the FAA to impose what is known as a ground stop at 8:26 a.m. ET, meaning United flights were not allowed to take off. It lifted the stop for feeder airlines that fly under the name United Express about 15 minutes later, but it took until just before 9:47 a.m. for the ground stop to be lifted for United flights.
+
+Related: Inside the most luxurious airport lounges
+
+The computer problem had forced United to hand write tickets for passengers at multiple airports. But Record said the lack of a reservation system meant that the airline was not able to check to confirm that passengers were not on a no-fly list or that everyone on the flight was supposed to be there.
+
+"Because of the safeguards and the backups built into the reservation system, once that goes down, everything has to stop," Record said.
+
+
+5 stunning stats about airlines
+The glitch affected software that automates United's operations, according to the FAA. And its failure shows just how sensitive computerized companies are nowadays.
+
+Automation software is complex, sometimes involving millions of lines of computer code. But all it takes is a single error -- even misplaced text -- to grind it to a halt.
+
+Michael Ibbitson leads high-tech operations at the second-largest British airport, Gatwick Airport. He has explained to CNNMoney that these systems are extremely sensitive -- and always subject to potential disaster.
+
+Record said these kinds of computer problems occur at least several times a year.
+
+"This incident reflects the fact that much of the airline industry's computer and technology programs are old and have been cobbled together," he said.
